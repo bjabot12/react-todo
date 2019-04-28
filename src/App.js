@@ -12,17 +12,20 @@ class App extends Component {
       {
         id: 1,
         title: "Take out the trash",
-        completed: false
+        completed: false,
+        comment: "test"
       },
       {
         id: 2,
         title: "Take out the boss",
-        completed: false
+        completed: false,
+        comment: "test2"
       },
       {
         id: 3,
         title: "Take out the søppel",
-        completed: false
+        completed: false,
+        comment: "test2"
       }
     ]
   }
@@ -66,6 +69,7 @@ class App extends Component {
 }
 
 const TodoStyle = {
+  margin: "0% 10% 0% 10%",
   padding: "10px"
 }
 
