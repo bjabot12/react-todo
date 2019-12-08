@@ -1,3 +1,5 @@
+The very first project I made using React.js. Followed a youtube tutorial to make it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
